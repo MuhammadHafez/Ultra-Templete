@@ -1,0 +1,30 @@
+ .creative-info {
+    padding-top: 50px;
+    width: 60%;
+    float: right;
+}
+
+ .creative-info .info-title {
+    font-weight: bold;
+    font-size: 50px
+}
+
+ .creative-info .info-title span {
+    font-weight: normal
+}
+
+ .creative-info .info-dir {
+    font-size: 40px;
+    color: #eb5424;
+    margin-bottom: 20px
+}
+
+ .creative-info .info-desc {
+    color: #000;
+    margin-bottom: 15px;
+    line-height: 1.8
+}
+
+ .creative-info .info-desc a {
+    text-decoration: none
+}
