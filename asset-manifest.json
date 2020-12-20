@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/Ultra-Templete/static/css/main.c2956b82.chunk.css",
+    "main.js": "/github.io/Ultra-Templete/static/js/main.94d58808.chunk.js",
+    "main.js.map": "/github.io/Ultra-Templete/static/js/main.94d58808.chunk.js.map",
+    "runtime-main.js": "/github.io/Ultra-Templete/static/js/runtime-main.2d08311e.js",
+    "runtime-main.js.map": "/github.io/Ultra-Templete/static/js/runtime-main.2d08311e.js.map",
+    "static/js/2.d11f00b4.chunk.js": "/github.io/Ultra-Templete/static/js/2.d11f00b4.chunk.js",
+    "static/js/2.d11f00b4.chunk.js.map": "/github.io/Ultra-Templete/static/js/2.d11f00b4.chunk.js.map",
+    "static/js/3.29ad3fb8.chunk.js": "/github.io/Ultra-Templete/static/js/3.29ad3fb8.chunk.js",
+    "static/js/3.29ad3fb8.chunk.js.map": "/github.io/Ultra-Templete/static/js/3.29ad3fb8.chunk.js.map",
+    "index.html": "/github.io/Ultra-Templete/index.html",
+    "static/css/main.c2956b82.chunk.css.map": "/github.io/Ultra-Templete/static/css/main.c2956b82.chunk.css.map",
+    "static/js/2.d11f00b4.chunk.js.LICENSE.txt": "/github.io/Ultra-Templete/static/js/2.d11f00b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d08311e.js",
+    "static/js/2.d11f00b4.chunk.js",
+    "static/css/main.c2956b82.chunk.css",
+    "static/js/main.94d58808.chunk.js"
+  ]
+}
