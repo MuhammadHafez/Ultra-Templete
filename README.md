@@ -1,3 +1,9 @@
+Simple React Js App uses:
+1- States
+2- Styled Component
+3- Hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
